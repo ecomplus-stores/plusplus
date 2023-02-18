@@ -10,17 +10,17 @@
   "repository": "ecomplus-stores/plusplus",
   "logo": "/img/uploads/logo.png",
   "name": "plusplus",
-  "short_name": "plusplus",
+  "short_name": "PlusPlus",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/plusplus_png_verde.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#000000",
+  "icon": "/img/uploads/logo-fundo-branco-plusplus.jpeg",
   "store_id": 51357,
-  "description": "plusplus",
-  "large_icon": "/img/large-icon.png"
+  "description": "O jeito mais rápido de compartilhar seu contato !",
+  "large_icon": "/img/uploads/logo-fundo-branco-plusplus.jpeg"
 }
