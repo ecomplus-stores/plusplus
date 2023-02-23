@@ -1,7 +1,7 @@
 {
   "domain": "plusplus.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#000000",
+  "primary_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-dark"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/logo-favcon.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#000000",
+  "secondary_color": "#00ff86",
   "icon": "/img/uploads/logo-fundo-branco-plusplus.jpeg",
   "store_id": 51357,
   "description": "O jeito mais rápido de compartilhar seu contato !",
