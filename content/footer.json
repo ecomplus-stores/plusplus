@@ -1,7 +1,7 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Cartão de visita NFC",
+    "text": "Dê adeus ao tradicional cartão de visitas sem pagar mensalidade ou taxas de manutenção"
   },
   "links_1": {
     "list_pages": true,
@@ -35,5 +35,5 @@
     "hipercard": true,
     "boleto": true
   },
-  "credits": ""
+  "credits": "© 2023 PLUSPLUS - TECNOLOGIA LTDA CNPJ: 43.982.961/0001-51"
 }
