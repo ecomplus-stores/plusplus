@@ -1,19 +1,11 @@
 {
   "marketing_stripe": {
     "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "link": "/promotion",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
@@ -23,7 +15,7 @@
     "full_width": false
   },
   "desktop_megamenu": false,
-  "search_input": true,
+  "search_input": false,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
 }
