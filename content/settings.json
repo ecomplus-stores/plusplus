@@ -4,11 +4,11 @@
   "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "clean-dark"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/plusplus",
-  "logo": "/img/uploads/logo-favcon.png",
+  "logo": "/img/uploads/plusplus_png_verde.png",
   "name": "PlusPlus",
   "short_name": "PlusPlus",
   "lang": "pt_br",
