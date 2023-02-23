@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "PlusPlus - Cartão de Visita Eletrônico",
+  "meta_description": "Dê adeus ao tradicional cartão de visitas sem pagar mensalidade ou taxas de manutenção. Funciona assim: Aproxime o PlusPlus do celular ou leia o QR para compartilhar seus dados.",
   "sections": [
     {
       "type": "banner-slider",
@@ -40,8 +40,8 @@
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Cartão de Visita Eletrônico",
+      "description": "Funciona assim: Aproxime o PlusPlus do celular ou leia o QR para compartilhar seus dados."
     }
   ]
 }
