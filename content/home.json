@@ -1,6 +1,6 @@
 {
   "meta_title": "PlusPlus - Cartão de Visita Eletrônico",
-  "meta_description": "Dê adeus ao tradicional cartão de visitas sem pagar mensalidade ou taxas de manutenção. Funciona assim: Aproxime o PlusPlus do celular ou leia o QR para compartilhar seus dados.",
+  "meta_description": "Dê adeus ao tradicional cartão de visitas sem pagar mensalidade ou taxas de manutenção. Funciona assijavascript:;m: Aproxime o PlusPlus do celular ou leia o QR para compartilhar seus dados.",
   "sections": [
     {
       "type": "banner-slider",
@@ -44,11 +44,8 @@
       "description": "Funciona assim: Aproxime o PlusPlus do celular ou leia o QR para compartilhar seus dados."
     },
     {
-      "type": "brands-carousel",
-      "limit": 23,
-      "offset": 0,
-      "sort": null,
-      "autoplay": 0
+      "type": "custom-html",
+      "html": "<html lang=\"pt-br\" dir=\"ltr\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,shrink-to-fit=no,minimum-scale=1\"><link rel=\"manifest\" href=\"/manifest.json\" crossorigin=\"use-credentials\"><meta name=\"theme-color\" content=\"#92f7b6\"><link rel=\"icon\" href=\"/img/uploads/cropped-monocard_marca_web5simbolopositivo-32x32.png\"><title>Monocard - O seu último cartão de visitas - Tecnologia NFC e QR Code</title><meta name=\"description\" content=\"O cartão de visitas digital está revolucionando o modo como você compartilha suas informações. O Monocard é um cartão eletrônico feito para pessoas e empresas.\"><meta name=\"author\" content=\"Monocard - O seu ultimo cartão de visitas - Monocard ®\"><meta name=\"generator\" content=\"E-Com Plus Storefront\"><link rel=\"canonical\" href=\"https://loja.monocard.com.br/\"><link rel=\"preload\" href=\"/storefront.535add8cade74a3b3c52.css\" as=\"style\"><link rel=\"preload\" href=\"/storefront.fdec05844036fbf257ae.js\" as=\"script\"><script>partytown = { \n        resolveUrl: function (url, location) {\n          switch (url.hostname) {\n            case 'www.googletagmanager.com':\n            case 'www.google-analytics.com':\n            case 'analytics.tiktok.com':\n            case location.hostname:\n              break;\n            default:\n              const proxyUrl = new URL(`https://${location.hostname}/reverse-proxy/`);\n              proxyUrl.searchParams.append('url', url.href);\n              return proxyUrl;\n          };"
     }
   ]
 }
