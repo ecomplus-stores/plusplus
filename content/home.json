@@ -42,6 +42,13 @@
       "type": "page-title",
       "title": "Cartão de Visita Eletrônico",
       "description": "Funciona assim: Aproxime o PlusPlus do celular ou leia o QR para compartilhar seus dados."
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 23,
+      "offset": 0,
+      "sort": null,
+      "autoplay": 0
     }
   ]
 }
