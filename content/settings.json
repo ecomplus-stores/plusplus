@@ -1,10 +1,10 @@
 {
   "domain": "plusplus.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-dark"
+    "custom": "clean-white"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/plusplus",
