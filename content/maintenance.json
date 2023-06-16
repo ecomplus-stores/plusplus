@@ -1,6 +1,6 @@
 {
   "title": "Loja em manutenção",
-  "body": "*Voltamos em breve*",
-  "active": false,
+  "body": "Loja indisponível, entrar em contato com o suporte!",
+  "active": true,
   "unlock_key": ""
 }
