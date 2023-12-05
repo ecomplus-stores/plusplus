@@ -5,7 +5,9 @@ module.exports = () => ({
     alias: {
       './js/AccountForm.js': path.resolve(__dirname, 'template/js/custom-js/js/AccountForm.js'),
       './js/TheCart.js': path.resolve(__dirname, 'template/js/custom-js/js/TheCart.js'),
-      './html/TheCart.html': path.resolve(__dirname, 'template/js/custom-js/html/TheCart.html')
+      './html/TheCart.html': path.resolve(__dirname, 'template/js/custom-js/html/TheCart.html'),
+      './js/TheAccount.js': path.resolve(__dirname, 'template/js/custom-js/js/TheAccount.js'),
+      './html/TheAccount.html': path.resolve(__dirname, 'template/js/custom-js/html/TheAccount.html')
     }
   }
 })
