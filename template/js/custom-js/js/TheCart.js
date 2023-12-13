@@ -20,12 +20,14 @@ import {
   import ShippingCalculator from '@ecomplus/storefront-components/src/ShippingCalculator.vue'
   import EarnPointsProgress from '@ecomplus/storefront-components/src/EarnPointsProgress.vue'
   import RecommendedItems from '@ecomplus/storefront-components/src/RecommendedItems.vue'
+  import BuyTogether from '@ecomplus/storefront-components/src/BuyTogether.vue'
   
   export default {
     name: 'TheCart',
   
     components: {
       APrices,
+      BuyTogether,
       CartItem,
       DiscountApplier,
       ShippingCalculator,

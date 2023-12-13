@@ -23,6 +23,10 @@
                 />
               </transition-group>
             </slot>
+            <buy-together
+              :base-product="cart.items[0]"
+              :is-cart="true"
+            />
             <template v-if="bump && bump.length">
                 <div class="buy-together__row row">
                     <div
@@ -57,7 +61,6 @@
             class="my-3"
             :cart-subtotal="cart.subtotal"
           />
-  
           <recommended-items col-class-name="col-6 col-lg-3"/>
   
           <slot name="back-shopping">
