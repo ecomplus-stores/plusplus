@@ -1,1 +1,4 @@
 // Add your custom CSS here.
+#cart-list-row .buy-together__item::after {
+    content: ''
+}

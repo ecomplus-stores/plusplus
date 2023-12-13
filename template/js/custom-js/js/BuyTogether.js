@@ -131,7 +131,13 @@ export default {
         })
         cartItem.quantity = (this.productQnts[item._id] || 1)
         cartItem.keep_item_quantity = true
-        this.ecomCart.addItem(cartItem)
+        if (this.isCart) {
+          if (this.baseProduct.product_id !== item.product_id) {
+            this.ecomCart.addItem(cartItem)
+          }
+        } else {
+          this.ecomCart.addItem(cartItem)
+        }
       })
     },
 

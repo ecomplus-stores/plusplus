@@ -28,7 +28,7 @@
               :is-cart="true"
             />
             <template v-if="bump && bump.length">
-                <div class="buy-together__row row">
+                <div class="buy-together__row row" id="cart-list-row">
                     <div
                       class="col-12"
                       :class="bump.length > 1 ? 'col-md' : 'col-md-6 col-lg-4'"
